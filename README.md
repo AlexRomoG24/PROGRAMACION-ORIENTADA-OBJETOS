@@ -7,4 +7,4 @@ NOMBRE: AlexRomoG24
 
 ING.Sistemas Computacionales
 
-![WELCOME]( "WELCOME")
+![WELCOME](https://www.debate.com.mx/show/Y-tu-sabes-que-es-la-tusa-20200116-0097.html "WELCOME")
