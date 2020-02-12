@@ -6,5 +6,3 @@ AHORA SI SE VIENE LO CHIDO!
 NOMBRE: AlexRomoG24
 
 ING.Sistemas Computacionales
-
-![WELCOME]( "WELCOME")

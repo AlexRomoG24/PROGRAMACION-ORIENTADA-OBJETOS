@@ -2,4 +2,4 @@
 
 # Instalación y configuración de Visual Studio Code para C#.
 
-# Instalación de git. conectado a tu cuenta de GitHub y VSC.
+![hola](\PROGRAMACION-ORIENTADA-OBJETOS\SETUP\IMG)
