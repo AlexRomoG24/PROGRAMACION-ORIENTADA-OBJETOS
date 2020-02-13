@@ -20,6 +20,7 @@ Y debe de salir algo tal que asi.
 
 # Instalación y configuración de Visual Studio Code para C#.
 Nos dirigimos hacia la pagina de donde se des cargara. [Visual Estudio Code](https://code.visualstudio.com/download)
+
 Nos apareceran 3 opciones y solo descargaremos la que quede con nuestro sistema operativo.
 
 En la carpeta de descargas encontraremos un archivo ejecutable.
