@@ -2,7 +2,7 @@
 Lo primero que debemos de hacer es ir a la pagina de donde se descargara el archivo dotnet core.
 [dotnet core](https://dotnet.microsoft.com/download)
 
-[]: https://github.com/AlexRomoG24/PROGRAMACION-ORIENTADA-OBJETOS/blob/master/SETUP/IMG/1.PNG?raw=true
+![](./SETUP/IMG/1.PNG)
 
 Despues le damos en descargar en la opcion que es .Net Core SDK.
 
