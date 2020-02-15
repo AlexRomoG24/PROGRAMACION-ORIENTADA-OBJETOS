@@ -6,19 +6,30 @@ Lo primero que debemos de hacer es ir a la pagina de donde se descargara el arch
 
 Despues le damos en descargar en la opcion que es .Net Core SDK.
 
+![Pagina](./IMG/2.PNG)
+
 En nuestra carpeta de descargas nos aparecera un ejecutador.
 Lo ejecutamos...
 
+![Pagina](./IMG/3.PNG)
+
 En la ventana emergente seleccionamos la opcion de instalar.
+
+![Pagina](./IMG/4.PNG)
 
 A continuacion se llevara a cabo la instalacion automaticamente.
 
+![Pagina](./IMG/5.PNG)
+
 Y concluyendo la instalacion nos saldra esta ventana de que,la instalacion fue un exito.
+
+![Pagina](./IMG/6.PNG)
 
 Para finalizar,ingresamos en nuestro CMD e ingresamos el siguiente comando...
 ### dotnet --info
 Y debe de salir algo tal que asi.
 
+![Pagina](./IMG/7.PNG)
 
 # Instalación y configuración de Visual Studio Code para C#.
 Nos dirigimos hacia la pagina de donde se des cargara. [Visual Estudio Code](https://code.visualstudio.com/download)
