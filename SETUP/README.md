@@ -36,27 +36,43 @@ Nos dirigimos hacia la pagina de donde se des cargara. [Visual Estudio Code](htt
 
 Nos apareceran 3 opciones y solo descargaremos la que quede con nuestro sistema operativo.
 
+![Pagina](./IMG/1-1.PNG)
+
 En la carpeta de descargas encontraremos un archivo ejecutable.
 Lo ejecutamos...
 
+![Pagina](./IMG/1-2.PNG)
+
 Nos aparecera la tipica ventana de terminos y condiciones,los aceptamos y le damos siguiente.
+
+![Pagina](./IMG/1-3.PNG)
 
 En la siguiente ventana nos pedira seleccionar la direccion de en donde se creara la carpeta para nuestro 
 programa.
 Seleccionamos la carpeta y le damos siguiente...
 
+![Pagina](./IMG/1-3-1.PNG)
+
 En la siguiente ventana nos dice que se creara nuestro acceso directo en el menu de inicio.
 Seleccionamos siguiente....
+
+![Pagina](./IMG/1-3-2.PNG)
 
 La siguiente Pantalla es opcional si quieres generar un icono en el escritorio.
 Seleccionamos siguiente...
 
+![Pagina](./IMG/1-4.PNG)
+
 A continuacion se efectuara la instalacion del el programa y finalizara
+
+![Pagina](./IMG/1-5.PNG)
 
 Para comprobar que nuestro programa fue instalado con exito podemos ejecutar el
 acceso creado o nos dirigimos a nuestro CMD e ingresamos el 
 siguiente codigo...
 ### code .
+
+![Pagina](./IMG/1-6.PNG)
 
 
 
