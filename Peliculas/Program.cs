@@ -17,20 +17,16 @@ namespace Peliculas
         static void Main(string[] args)
         {
             Peliculas p1=new Peliculas();
-            p1.Titulo="Spiderman-2";
-            p1.Año=2004;
-            p1.Director="alex";
-            Console.WriteLine(p1.Titulo);
-            Console.WriteLine(p1.Año);
-            Console.WriteLine(p1.Director);
+            p1.Titulo="Toy Story 4";
+            p1.Año=2020;
+            p1.Director="Josh Cooley";
+            p1.Pais="EE.UU";
 
             Peliculas p2=new Peliculas();
-            p2.Titulo="Spiderman-2";
-            p2.Año=2004;
-            p2.Director="alex";
-            Console.WriteLine(p1.Titulo);
-            Console.WriteLine(p1.Año);
-            Console.WriteLine(p1.Director);
+            p2.Titulo="Joker";
+            p2.Año=2020;
+            p2.Director="Todd Phillips";
+            p2.Pais="EE.UU";
         }
     }
 }
