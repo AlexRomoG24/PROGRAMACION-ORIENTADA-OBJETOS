@@ -21,12 +21,16 @@ namespace Peliculas
             p1.Año=2020;
             p1.Director="Josh Cooley";
             p1.Pais="EE.UU";
+            Console.WriteLine(p1.Titulo);
+            Console.WriteLine(p1.Año);
 
             Peliculas p2=new Peliculas();
             p2.Titulo="Joker";
             p2.Año=2020;
             p2.Director="Todd Phillips";
             p2.Pais="EE.UU";
+            Console.WriteLine(p2.Titulo);
+            Console.WriteLine(p2.Año);
         }
     }
 }
