@@ -2,11 +2,11 @@
 
 1.Agrega la cardinalidad o multiplicidad para las asociaciones del siguiente diagrama de clases, justifica tus decisiones:
 
-![Pagina](./IMG/UML ALUMNO.PNG)
+![Pagina](./IMG/UMLALUMNO.PNG)
 
 2.Completa los tipos de asociación (Agregación y Composición) y multiplicidad que hay entre las clases siguientes y explica porque es de ese tipo.
 
-![Pagina](./UML LIBRERO.PNG)
+![Pagina](./IMG/UMLLIBRERO.PNG)
 
 3.Haz el diagrama de clases del siguiente sistema:
 Nos piden hacer una aplicación para llevar una bitácora de los libros
