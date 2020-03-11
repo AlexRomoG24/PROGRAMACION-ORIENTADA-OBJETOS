@@ -1,79 +1,21 @@
-# Instalación de dotnet core 3.1
-Lo primero que debemos de hacer es ir a la pagina de donde se descargara el archivo dotnet core.
-[dotnet core](https://dotnet.microsoft.com/download)
+# EJERCICIOS UML
 
-![Pagina](./IMG/1.PNG)
+1.Agrega la cardinalidad o multiplicidad para las asociaciones del siguiente diagrama de clases, justifica tus decisiones:
 
-Despues le damos en descargar en la opcion que es .Net Core SDK.
+![Pagina](./IMG/UML ALUMNO.PNG)
 
-![Pagina](./IMG/2.PNG)
+2.Completa los tipos de asociación (Agregación y Composición) y multiplicidad que hay entre las clases siguientes y explica porque es de ese tipo.
 
-En nuestra carpeta de descargas nos aparecera un ejecutador.
-Lo ejecutamos...
+![Pagina](./IMG/UML LIBRERO.PNG)
 
-![Pagina](./IMG/3.PNG)
+3.Haz el diagrama de clases del siguiente sistema:
+Nos piden hacer una aplicación para llevar una bitácora de los libros
+que estamos leyendo y aquellos que ya hemos terminado de leer. 
+En la App podemos buscar libros por autor, categoría, título y calificación.
+Una vez que encontramos un libro, podemos agregarlo a nuestra biblioteca e indicar
+si lo estamos leyendo o ya terminamos de leer y lo podemos poner una calificación.
+Los libros pueden tener más de un autor, si buscamos un autor podemos ver la
+lista de los libros que ha escrito. En caso de que haya traducciones o reediciones 
+se consideran como el mismo libro. 
 
-En la ventana emergente seleccionamos la opcion de instalar.
-
-![Pagina](./IMG/4.PNG)
-
-A continuacion se llevara a cabo la instalacion automaticamente.
-
-![Pagina](./IMG/5.PNG)
-
-Y concluyendo la instalacion nos saldra esta ventana de que,la instalacion fue un exito.
-
-![Pagina](./IMG/6.PNG)
-
-Para finalizar,ingresamos en nuestro CMD e ingresamos el siguiente comando...
-### dotnet --info
-Y debe de salir algo tal que asi.
-
-![Pagina](./IMG/7.PNG)
-
-# Instalación y configuración de Visual Studio Code para C#.
-Nos dirigimos hacia la pagina de donde se des cargara. [Visual Estudio Code](https://code.visualstudio.com/download)
-
-Nos apareceran 3 opciones y solo descargaremos la que quede con nuestro sistema operativo.
-
-![Pagina](./IMG/1-1.PNG)
-
-En la carpeta de descargas encontraremos un archivo ejecutable.
-Lo ejecutamos...
-
-![Pagina](./IMG/1-2.PNG)
-
-Nos aparecera la tipica ventana de terminos y condiciones,los aceptamos y le damos siguiente.
-
-![Pagina](./IMG/1-3.PNG)
-
-En la siguiente ventana nos pedira seleccionar la direccion de en donde se creara la carpeta para nuestro 
-programa.
-Seleccionamos la carpeta y le damos siguiente...
-
-![Pagina](./IMG/1-3-1.PNG)
-
-En la siguiente ventana nos dice que se creara nuestro acceso directo en el menu de inicio.
-Seleccionamos siguiente....
-
-![Pagina](./IMG/1-3-2.PNG)
-
-La siguiente Pantalla es opcional si quieres generar un icono en el escritorio.
-Seleccionamos siguiente...
-
-![Pagina](./IMG/1-4.PNG)
-
-A continuacion se efectuara la instalacion del el programa y finalizara
-
-![Pagina](./IMG/1-5.PNG)
-
-Para comprobar que nuestro programa fue instalado con exito podemos ejecutar el
-acceso creado o nos dirigimos a nuestro CMD e ingresamos el 
-siguiente codigo...
-### code .
-
-![Pagina](./IMG/1-6.PNG)
-
-
-
-
+![Pagina](./IMG/APK.PNG)
