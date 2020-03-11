@@ -22,7 +22,8 @@ namespace Lista_De_Actores
 
     public void Imprimir()
     {
-        Console.WriteLine("Titulo: {0} Año: {1} Director: {2} Pais: {3}", this.Titulo, this.Año, this.Director, this.Pais);
+        Console.WriteLine("Titulo de la pelicula: {0} Año de estreno: {1} Director: {2} Pais de estreno: {3}", this.Titulo, this.Año, this.Director, this.Pais);
+        Console.WriteLine("Los participantes de la pelicula son:");
     }
 }
     public class Actores

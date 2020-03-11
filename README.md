@@ -12,3 +12,5 @@ ING.Sistemas Computacionales
 [Actividad BASICO DE PELICULAS](https://github.com/AlexRomoG24/PROGRAMACION-ORIENTADA-OBJETOS/tree/master/Peliculas)
 
 [Actividad UML](https://github.com/AlexRomoG24/PROGRAMACION-ORIENTADA-OBJETOS/tree/master/UML)
+
+[Actividad LISTAS DE ACTORES](https://github.com/AlexRomoG24/PROGRAMACION-ORIENTADA-OBJETOS/blob/master/Lista_De_Actores/Program.cs)
