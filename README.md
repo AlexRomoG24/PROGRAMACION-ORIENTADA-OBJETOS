@@ -7,6 +7,8 @@ NOMBRE: AlexRomoG24
 
 ING.Sistemas Computacionales
 
-[Actividad 1](https://github.com/AlexRomoG24/PROGRAMACION-ORIENTADA-OBJETOS/tree/master/SETUP)
+[Actividad MARKDOWN](https://github.com/AlexRomoG24/PROGRAMACION-ORIENTADA-OBJETOS/tree/master/SETUP)
 
-[Actividad 2](https://github.com/AlexRomoG24/PROGRAMACION-ORIENTADA-OBJETOS/tree/master/Peliculas)
+[Actividad BASICO DE PELICULAS](https://github.com/AlexRomoG24/PROGRAMACION-ORIENTADA-OBJETOS/tree/master/Peliculas)
+
+[Actividad UML](https://github.com/AlexRomoG24/PROGRAMACION-ORIENTADA-OBJETOS/tree/master/UML)
